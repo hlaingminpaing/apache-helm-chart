@@ -9,6 +9,6 @@ entries:
     name: apache-chart
     type: application
     urls:
-    - https://github.com/hlaingminpaing/apache-helm-chart.git/apache-chart-0.1.0.tgz
+    - https://hlaingminpaing.github.io/apache-helm-chart/
     version: 0.1.0
 generated: "2025-08-19T10:33:23.588202215+07:00"
