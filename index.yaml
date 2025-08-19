@@ -3,12 +3,12 @@ entries:
   apache-chart:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-08-19T10:33:23.588773978+07:00"
+    created: "2025-08-19T16:17:59.991889137+07:00"
     description: A Helm chart for Apache
     digest: 728742cea028b5c63809e2ffd753db31299d1234c4d1bd985232bd284f470f38
     name: apache-chart
     type: application
     urls:
-    - https://hlaingminpaing.github.io/apache-helm-chart/
+    - https://hlaingminpaing.github.io/apache-helm-chart/apache-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-08-19T10:33:23.588202215+07:00"
+generated: "2025-08-19T16:17:59.989056507+07:00"
